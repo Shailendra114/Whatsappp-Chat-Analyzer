@@ -13,6 +13,8 @@ And many other insights you can get from this Analyzer. Anyone obviously, who ha
 # Aim
 The aim of this project is to build a whatsapp hat analyzer
 # Tools used:-
+![image](https://user-images.githubusercontent.com/88799249/157093041-fe2da13c-7835-480f-bfe4-c84a22ce5c49.png)
+
 * Python
 * Pandas
 * Numpy
