@@ -13,3 +13,14 @@ And many other insights you can get from this Analyzer. Anyone obviously, who ha
 # Aim
 The aim of this project is to build a whatsapp hat analyzer
 # Tools used:-
+* Python
+* Pandas
+* Numpy
+* Seaborn
+* Plotly
+* Matplotlib
+* Sklearn
+* Flask
+* Pickle
+* HTML
+* Heroku
