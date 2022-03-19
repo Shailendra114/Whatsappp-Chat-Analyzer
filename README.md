@@ -28,3 +28,5 @@ The aim of this project is to build a whatsapp hat analyzer
 * Pickle
 * HTML
 * Heroku
+
+# Conclusion
