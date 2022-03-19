@@ -30,3 +30,6 @@ The aim of this project is to build a whatsapp hat analyzer
 * Heroku
 
 # Conclusion
+![image](https://user-images.githubusercontent.com/88799249/159132985-f9e53d1c-0da9-4ce3-b296-0d3fbef86e07.png)
+
+
