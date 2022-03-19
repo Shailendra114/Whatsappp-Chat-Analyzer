@@ -28,6 +28,7 @@ The aim of this project is to build a whatsapp hat analyzer
 * Pickle
 * HTML
 * Heroku
+![image](https://user-images.githubusercontent.com/88799249/159133028-27377664-cf2a-42b8-a27d-67d291ac6e06.png)
 
 # Conclusion
 ![image](https://user-images.githubusercontent.com/88799249/159132985-f9e53d1c-0da9-4ce3-b296-0d3fbef86e07.png)
